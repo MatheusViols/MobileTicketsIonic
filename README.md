@@ -8,6 +8,16 @@ O app é capaz de criar novas senhas e apresentar o número de senhas totais cri
 - SP - Senha Prioritária
 - SE - Senha Exame
 
+
+##### Tela de Relatório de Senhas inicialmente
+<img width="1440" height="900" alt="TelaInicial" src="https://github.com/user-attachments/assets/62310f3d-3691-4f50-bf65-f6baba7ff5b2" />
+
+##### Tela Para Adquirir nova senha
+<img width="1440" height="900" alt="TelaAdquirirSenha" src="https://github.com/user-attachments/assets/40db16b6-dea7-4967-ab6a-c5f9d90b7d11" />
+
+##### Tela de Relatório de Senhas após criar uma senha
+<img width="1440" height="900" alt="TelaFinal" src="https://github.com/user-attachments/assets/3da12f77-3875-48e4-9c43-fe57c5c91c21" />
+
 #### Ferramentas utilizadas
 - Ionic 7.2.1
 - Angular 20.3.22
